@@ -1,0 +1,20 @@
+# Power BI files
+*.pbix
+*.pbit
+
+# Raw data
+*.csv
+*.xlsx
+
+# Python
+__pycache__/
+
+# macOS
+.DS_Store
+
+# Windows
+thumbs.db
+Thumbs.db
+
+# Sanitization script (contains sensitive patterns)
+sanitize.sh
